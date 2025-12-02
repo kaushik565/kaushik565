@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaushik
-- 👀 I’m interested in FrontEnd Developer
+- 👀 I’m a FullStack Developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 20L35A1201@VIGNANIIT.EDU.IN
